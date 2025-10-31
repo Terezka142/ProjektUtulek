@@ -1,0 +1,56 @@
+* {
+    font-family: Tahoma;
+}
+
+#upravit {
+    display: none;
+    margin: auto;
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+#pridat {
+    margin: auto;
+    width: 150px;
+}
+
+.navbar {
+    background-color: #2cd7af;
+}
+
+.navbar-underline{
+    border-bottom: 2px solid transparent;
+}
+
+.navbar-underline:hover{
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+nav ul {
+    list-style-type: none;
+
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+h1,
+h2,
+h3 {
+    margin-left: 15px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.mapa {
+    margin-left: 25px;
+}
+
+.podporovatele {
+    margin-left: 30px;
+    width: 350px;
+}

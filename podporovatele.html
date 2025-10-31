@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="cs-cz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Útulek</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+    <!--Navigační menu-->
+    <nav class="navbar navbar-expand-md sticky-top rounded-bottom">
+        <div class="container-fluid">
+            
+            <a class="navbar-brand" href="index.html">
+            <img src="./obrazky/papousekNaVetvi.png" alt="Papousek na větvi" width="30">
+            Útulek Pírko <span class="visually-hidden"></span>
+            </a>
+                   
+            <ul class="nav">
+                <li class="nav-item px-2 navbar-underline">
+                    <a class="nav-link text-white" href="oUtulku.html">O útulku<span class="visually-hidden"></span></a>
+                </li>
+                 <li class="nav-item px-2 navbar-underline">
+                    <a class="nav-link text-white" href="informace.html">Informace<span class="visually-hidden"></span></a>
+                </li>
+                <li class="nav-item px-2 navbar-underline">
+                    <a class="nav-link text-white" href="podporovatele.html">Podporovatelé<span class="visually-hidden">(current)</span></a>
+                </li>
+            </ul>
+        
+            <form class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="zaznamyZvirat">
+                <button class="btn btn-outline-dark" type="submit">Hledat</button>
+            </form>
+
+        </div>
+    </nav>
+
+    <h1>Naši podporovatelé</h1>
+    
+    <div class="podporovatele">
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">TOP</th>
+                <th scope="col">Jméno</th>
+                <th scope="col">Příjmení</th>
+                <th scope="col">Částka</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Milan</td>
+                <td>Gulaš</td>
+                <td>60 000 Kč</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Jakub</td>
+                <td>Flek</td>
+                <td>40 000 Kč</td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td colspan="2">Super Zoo</td>
+                <td>30 000 Kč</td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>Marie</td>
+                <td>Kocourková</td>
+                <td>20 000 Kč</td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Lukáš</td>
+                <td>Sedlák</td>
+                <td>15 000 Kč</td>
+            </tr>
+            <tr>
+                <th scope="row">6</th>
+                <td>Lukáš</td>
+                <td>Pech</td>
+                <td>11 000 Kč</td>
+            </tr>
+            <tr>
+                <th scope="row">7</th>
+                <td>Pavel</td>
+                <td>Mikeš</td>
+                <td>10 000 Kč</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
