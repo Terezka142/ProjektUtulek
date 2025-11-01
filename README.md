@@ -4,14 +4,18 @@ Tento projekt vznikl jako moje praktické cvičení při učení frontendu. Cht�
 
 Zvolila jsem téma útulku pro zvířata, protože mi dává smysl a je mi blízké.
 
-Cílem bylo vytvořit více stránek, propojit je, přidat formulář, trochu interakce a vyzkoušet si práci se strukturou projektu, styly a skripty.
+Cílem bylo vytvořit více stránek, propojit je, přidat formulář, trochu interakce a vyzkoušet si práci se strukturou projektu, styly a skripty. Chtěla jsem si vyzkoušet formulář, který přidá zvíře do tabulky, a které následně bude možné upravit nebo smazat.
 
-🔧Technologie🔧</br>
-"HTML5" </br>
-"CSS3" </br>
-"JavaScript" </br>
+<h3>🔧Technologie🔧</h3>
+<ul>
+  <li>HTML5</li>
+  <li>"CSS3"</li>
+  <li>"JavaScript"</li>
+</ul>
 
-Jak projekt spustit?
+<h3>Jak projekt spustit?</h3>
 Stačí otevřít soubour index.html v prohlížeči.
 
 Děkuji, že se díváte na můj projekt!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
