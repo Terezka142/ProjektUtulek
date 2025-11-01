@@ -6,16 +6,19 @@ Zvolila jsem téma útulku pro zvířata, protože mi dává smysl a je mi blíz
 
 Cílem bylo vytvořit více stránek, propojit je, přidat formulář, trochu interakce a vyzkoušet si práci se strukturou projektu, styly a skripty. Chtěla jsem si vyzkoušet formulář, který přidá zvíře do tabulky, a které následně bude možné upravit nebo smazat.
 
-<h3>🔧Technologie🔧</h3>
-<ul>
-  <li>HTML5</li>
-  <li>"CSS3"</li>
-  <li>"JavaScript"</li>
-</ul>
+### Co jsem si například vyzkoušela?
+* metodu pro přidání záznamu
+* metodu pro odebrání záznamu
+* metodu pro upravení záznamu
+* ošetření vstupů
+* parsování
 
-<h3>Jak projekt spustit?</h3>
-Stačí otevřít soubour index.html v prohlížeči.
+### 🔧Technologie🔧
+* HTML5
+* CSS3
+* JavaScript
 
-Děkuji, že se díváte na můj projekt!
+### Jak projekt spustit?
+Stačí otevřít soubour `index.html` v prohlížeči.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Děkuji, že se díváte na můj projekt! 😊
